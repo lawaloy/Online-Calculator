@@ -1,4 +1,1 @@
-.java linguist-detectable=true
-.js linguist-detectabe=false
-.html lingiust-detectable=false
-.xml linguist-detectable=false
+project-docs/* linguist-documentation
