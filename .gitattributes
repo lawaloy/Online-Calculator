@@ -1,4 +1,4 @@
 *.Java linguist-detectable=true
 *.js linguist-detectabe=false
-*.html lingiust-language=Java
+*.html lingiust-deatectable=false
 *.xml linguist-detectable=false
